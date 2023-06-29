@@ -12,6 +12,3 @@ Meu foco principal é o desenvolvimento de front-end, onde me especializei na cr
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/dragon_lordt/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://tiktok.com/@kibum.png](https://www.tiktok.com/@tdragon_lord))
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
